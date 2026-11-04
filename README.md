@@ -4,6 +4,8 @@
 ### Desenvolvedor Full Stack • Node.js | TypeScript | React | Next.js | IA & MCP
 
 [![Profile Views](https://komarev.com/ghpvc/?username=jeanc-alves&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/jeanc-alves)
+[![Português](https://img.shields.io/badge/Idioma-Português-009c3b?style=flat-square)](README.md)
+[![English](https://img.shields.io/badge/Language-English-002868?style=flat-square)](README.en.md)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-carlosalves-3166a2b6)
 [![Email](https://img.shields.io/badge/Email-jean--carlosalves%40hotmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jean-carlosalves@hotmail.com)
 [![Location](https://img.shields.io/badge/Localização-Curitiba%2C%20PR%20--%20Brasil-108554?style=flat-square&logo=googlemaps&logoColor=white)](https://goo.gl/maps/curitiba)
@@ -18,6 +20,10 @@
 </p>
 
 </div>
+
+<p align="center">
+  🌐 <b>Choose language:</b> <a href="README.md">Português</a> • <a href="README.en.md">English</a>
+</p>
 
 ---
 
